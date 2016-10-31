@@ -25,8 +25,8 @@ Brian Tutorial (general neural network concepts): http://brian2.readthedocs.io/e
 TODO
 ----
 
-[ ] Train and test Hanyi’s network with new data with more events for each ball movement
-[ ] Generalise the wrapper.py script for constructing the SpikeSourceArray input data to facilitate work with any network in the future relying on recorded/generated data
+- [ ] Train and test Hanyi’s network with new data with more events for each ball movement
+- [ ] Generalise the wrapper.py script for constructing the SpikeSourceArray input data to facilitate work with any network in the future relying on recorded/generated data
 
 
 Useful papers
