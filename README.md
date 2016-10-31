@@ -13,6 +13,7 @@ This contains the data files as well as the code, however binary files should no
 Other useful code for building suitable neural networks may be found here: https://github.com/bio-modelling/SpinBot. 
 This repository also contains code for controlling a robot with an Arduino microcontroller. 
 
+The project uses the neuromorphic Dynamic Vision Sensor (http://inilabs.com/products/dynamic-vision-sensors/) for the visual inputs. User guides for the DVS128, eDVS hardware and jAER software may be found here: http://inilabs.com/support/. 
 The Python module for reading AER files may be found here: https://github.com/bio-modelling/py-aer. 
 
 
