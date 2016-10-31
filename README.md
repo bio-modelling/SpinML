@@ -10,6 +10,12 @@ Resources: https://spinnakermanchester.github.io/
 Hanyi's project repository can be found here: https://github.com/hh2712/hh2712-Machine-Learning-On-The-SpiNNaker-Platform-For-The-Visual-Input-Processing
 This contains the data files as well as the code, however binary files should not be included in this repository. 
 
+Other useful code for building suitable neural networks may be found here: https://github.com/bio-modelling/SpinBot. 
+This repository also contains code for controlling a robot with an Arduino microcontroller. 
+
+The Python module for reading AER files may be found here: https://github.com/bio-modelling/py-aer. 
+
+
 Installation
 ------------
 
@@ -30,6 +36,7 @@ TODO
 
 - [ ] Train and test Hanyi’s network with new data with more events for each ball movement
 - [ ] Generalise the wrapper.py script for constructing the SpikeSourceArray input data to facilitate work with any network in the future relying on recorded/generated data
+- [ ] Extract useful code from SpinBot (Wenbo's repository)
 
 
 Useful papers
