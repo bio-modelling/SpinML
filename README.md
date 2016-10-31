@@ -6,6 +6,8 @@ learn about trajectories from AER data (eventually directly from an eDVS) in
 order to support various roles e.g. build a robotic fielder or goalkeeper.
 
 Resources: https://spinnakermanchester.github.io/
+Hanyi's project repository can be found here: https://github.com/hh2712/hh2712-Machine-Learning-On-The-SpiNNaker-Platform-For-The-Visual-Input-Processing
+This contains the data files as well as the code, however binary files should not be included in this repository. 
 
 Installation
 ------------
