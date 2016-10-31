@@ -1,0 +1,19 @@
+Overview of modifications
+
+TwoLayerTopology.py, formerly I_based_model.py
+– changed file and class names to better reflect the actual content
+  the code implements a network topology not a current based model
+- extra comments on the wrapper and topology files
+- fixed typos and grammar in some existing comments
+- fixed a scipy compatibility issue with saving weigths to .mat files
+- some PEP 8
+
+
+wrapper.py
+- extra comments
+
+
+input_normaliser.py
+- complete rewrite using new py-aer functions
+- as processing of aedat files takes a while, added a progressbar,
+  introducing dependency: ‘progressbar 2.3’
